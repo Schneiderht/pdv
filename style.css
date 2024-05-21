@@ -1,5 +1,5 @@
 body{
-    background-color: #1E1E1E;
+    background-color: #8b84cc;
     color:#FFFF; 
     font-family: 'Times New Roman';
 }
@@ -19,8 +19,8 @@ body{
 }
 .botao { 
     font-family: 'Times New Roman', Times, serif;
-    background-color: green;
-    color: yellow; 
+    background-color: rgb(111, 103, 189);
+    color: rgb(255, 255, 255); 
     display: flex;
     justify-content: center;
     padding: 1em;
