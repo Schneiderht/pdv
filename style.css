@@ -12,6 +12,9 @@ body{
     width: 100%;
     margin: 0 auto;
 }
+.Junin {
+    width:50px;
+}
 .titulo-principal { 
     text-align: left;
     width: 100%;
